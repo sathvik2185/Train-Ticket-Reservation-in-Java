@@ -1,4 +1,4 @@
-# IndiTrack (Train Ticket Reservation System)
+Train Ticket Reservation System
 
 ### About:
 
